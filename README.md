@@ -1,5 +1,5 @@
 # StretchyHeaderView
 One Screen With a stretchy header 
 
-![Alt Text](https://imgur.com/uUCzdGM)
+![Alt Text]([Imgur](https://i.imgur.com/uUCzdGM.gifv))
 
